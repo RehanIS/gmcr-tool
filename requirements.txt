@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+plotly
+scikit-learn
+supabase
+python-dotenv
+pydeck
+fpdf2
+shap
+matplotlib
+psycopg2-binary
+sqlalchemy
