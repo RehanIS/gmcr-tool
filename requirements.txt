@@ -11,3 +11,4 @@ shap
 matplotlib
 psycopg2-binary
 sqlalchemy
+statsmodels
